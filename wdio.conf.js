@@ -21,7 +21,7 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/**/spicejet.js'
+        './test/specs/**/automationbro.js'
     ],
     // Patterns to exclude.
     exclude: [
